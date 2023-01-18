@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgba(199, 170, 106, 0.709);
+}
+img{
+    border-radius: 15px 50px;
+}
+h1{
+    color: aliceblue;
+    text-decoration: solid;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: aliceblue;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-style: normal;
+    color: rgb(59, 57, 57);
+}
+ul{
+    font-size: 18px;
+    color: rgb(62, 61, 61);
+}
