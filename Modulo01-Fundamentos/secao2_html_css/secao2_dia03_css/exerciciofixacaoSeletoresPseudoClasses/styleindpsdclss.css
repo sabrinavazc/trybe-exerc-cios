@@ -1,0 +1,31 @@
+div:hover{
+    border: 2px solid black;
+}
+
+        div:nth-of-type(1)>h3 {
+            background-color: rgb(148, 216, 218);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        div:nth-of-type(2)>h3 {
+            background-color: rgb(94, 141, 142);
+            text-align: end;
+        }
+        div:nth-of-type(3)>h3 {
+            background-color: rgb(61, 90, 91);
+            font-size: 30px;
+            color: aliceblue;
+        }
+        div:nth-of-type(4)>h3 {
+            background-color: rgb(48, 73, 74);
+            font-style: italic;
+        }
+        div:nth-of-type(5)>h3 {
+            background-color: rgb(23, 34, 31);
+            color: aliceblue;
+        }
+
+div:nth-child(odd)>h3 {
+font-style: italic;
+}
+
+
